@@ -18,3 +18,16 @@ Entregables Esperados:
     d.	Que 2 meses son en los que menos se vendieron.
 3.	Estado de resultados.
 4.	Recomendaciones concretas y accionables para mejorar la eficiencia operativa y respaldar la toma de decisiones.
+
+## Recomendaciones
+1.- Hacer uso de  las depreiciaciones como escudo fiscal para disminuir los impuestos a pagar y poder mejorar el flujo de efectivo.
+
+2.-  Los gastos operativos estan demasiado elevados por lo que se recomienda  reducir los gastos de almacenamiento, en donde esta la opción de producir menos unidades o aumentar las ventas para darle mayor rotación al producto, se recomienda aumentar la participacion en el mercado para no tocar la produccion y asi mantener costos bajos.
+
+3.- Restructurar campañas de marketing o cambiar de proveedor de servicio ya que las ventas tienen solo picos estacionales . Se recomienda redefinir estrategias de venta, prospeccion y recuperación de cartera.
+
+4.- Ya que la utilidad neta representa el 19% de los ingresos totales se recomienda reducir todos los gastos de operación y redefinir aquellos con estan directamente relacionados con el incremento de las ventas.
+
+5.- Reabastecer con producto la Tienda B ya que es la que tiene menos ventas en el año, ademas se recomienda capacitar a sus vendedores y rotar el producto que no tiene rotación entre tiendas para siempre tener novedad.  Dar seguimiento al registro de datos de la Tienda B que fue la que mayor genero errores a la hora de registrar las fechas.
+
+
